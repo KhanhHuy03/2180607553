@@ -5,9 +5,10 @@
 | **Value statement**      | As a customer, i want to this app to search for many excersice, so i can find this excersice quickly |
 | **Acceptance Criteria**  | Ecceptance 1<br>- Given there's a excersice that hasn't been yet.<br>- When required to choose a excersice.<br>- Then make sure this app has it.<br>Ecceptance 2<br>- The system provides visual feedback when the user find excersice.|
 | **Definition of Done**   | - Unit Test Passed <br> - Acceptance Criteria <br> - Code Reviewed <br> - Functional Test Passed <br> - Product Owner Accepts User Story|  
-| **Owner**                | Le Khanh Huy  |
+| **Owner**                | Le Khanh Huy|
 | **Interation**           | unscheduled   |
 | **Extimate**             |  5 points     |
+![BT](https://github.com/KhanhHuy03/2180607553/assets/144699815/38ef292a-6abc-424e-a0e4-51e42d649836)
 
 # 2180607883
 
