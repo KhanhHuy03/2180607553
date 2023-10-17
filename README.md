@@ -11,6 +11,21 @@
 
 ![BT](https://github.com/KhanhHuy03/2180607553/assets/144699815/38ef292a-6abc-424e-a0e4-51e42d649836)
 
+| **Project Name**       | App for Management of Multiple Choice Exam Review |
+| :--------------------- | :------------------------------------------------ |
+| **Reference Document** |                    |
+| **Created By**         | huykhanhle96@gmail.com |
+| **Date Of Creation**   |  17/10/2023 |
+| **Date Of Review**     |  |
+
+| **Test Case ID** | **Test Objective** | Precondition | Steps | Test Data | Expected ReSult | Post Conditional |
+| :--------------- | :----------------- | :----------- | :---- | :-------- | :-------------- | :--------------- |
+| TC_01 | Successful employee login to  this app protal | A valid User account | 1.In the login pannel.Enter the username <br> 2. Enter the password for the User account ||||
+||||||||
+||||||||
+
+
+
 # 2180607883
 
 ## **User Story: Select the exam review lesson from the list of exam review items**
@@ -25,6 +40,7 @@
 | **Estimate:** | 5 Points |
 
 ![Untitled](https://github.com/KhanhHuy03/2180607553/assets/144198095/1a6e7494-26ce-43a9-b61f-17471a711adf)
+
 
 # 2180607167
 - Multiple choice exam review application
