@@ -3,7 +3,7 @@
 | **Title**                | Search Excersice From The List Of Excersice Items |
 | :----------------------- | :---------------- |
 | **Value statement**      | As a customer, i want to this app to search for many excersice, so i can find this excersice quickly |
-| **Acceptance Criteria**  | Ecceptance 1<br>- Provide existing exercises.<br>- When required to choose a excersice.<br>- Then make choices.<br>Ecceptance 2<br>- The system provides visual feedback when the user find excersice.|
+| **Acceptance Criteria**  | Ecceptance 1<br>- Provide existing exercises.<br>- When required to choose a excersice.<br>- Then make choices excersice you want.<br>Ecceptance 2<br>- The system provides visual feedback when the user find excersice.|
 | **Definition of Done**   | - Unit Test Passed <br> - Acceptance Criteria <br> - Code Reviewed <br> - Functional Test Passed <br> - Product Owner Accepts User Story|  
 | **Owner**                | Le Khanh Huy|
 | **Interation**           | unscheduled   |
