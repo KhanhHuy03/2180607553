@@ -19,8 +19,8 @@
 | **Date Of Review**     |  |
 
 | **Test Case ID** | **Test Objective** | Precondition | Steps | Test Data | Expected ReSult | Post Conditional |
-| :--------------- | :----------------- | :----------- | :---- | :-------- | :-------------- | :--------------- |
-| TC_01 | Successful employee login to  this app protal | A valid User account | 1.In the login pannel.Enter the username <br> 2. Enter the password for the User account ||||
+| :------- | :------- | :----- | :---- | -------------- | :-------------- | :--------------- |
+| TC_01 | Successful employee login to  this app protal | A valid User account | 1. In the login pannel.Enter the username. <br> <br>2. Enter the password for the User account. <br><br>  3. Click "Login".  | A valid "Username" Enter the actual data in your real time situation. <br><br> Avalid password. | The user is logged in successful. There is only one expected result entire for the testcase. However, that does not have to be so. If it makes sense that for every step, you want to write the result of exactly what happens with it. | - For first time users personal information is displayed.<br> - Note: This infor is only additional.<br> - Just as a pointer to the tester.   |
 ||||||||
 ||||||||
 
