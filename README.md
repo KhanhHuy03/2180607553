@@ -8,8 +8,8 @@
 | **Owner**                | Le Khanh Huy|
 | **Interation**           | unscheduled   |
 | **Extimate**             |  5 points     |
+<img width="517" alt="Screenshot 2023-10-21 194053" src="https://github.com/KhanhHuy03/2180607553/assets/144699815/b3bc6923-3144-4291-9e6d-3608953ceec4">
 
-![BT](https://github.com/KhanhHuy03/2180607553/assets/144699815/38ef292a-6abc-424e-a0e4-51e42d649836)
 
 | **Project Name**       | App for Management of Multiple Choice Exam Review |
 | :--------------------- | :------------------------------------------------ |
