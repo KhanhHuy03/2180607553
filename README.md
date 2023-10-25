@@ -21,8 +21,11 @@
 | **Test Case ID** | **Test Objective** | Precondition | Steps | Test Data | Expected ReSult | Post Conditional |
 | :------- | :------- | :----- | :---- | -------------- | :-------------- | :--------------- |
 | TC_01 | Successful employee login to  this app protal | A valid User account | 1. In the login pannel.Enter the username. <br> <br>2. Enter the password for the User account. <br><br>  3. Click "Login".  | A valid "Username" Enter the actual data in your real time situation. <br><br> Avalid password. | The user is logged in successful. There is only one expected result entire for the testcase. However, that does not have to be so. If it makes sense that for every step, you want to write the result of exactly what happens with it. | - For first time users personal information is displayed.<br> - Note: This infor is only additional.<br> - Just as a pointer to the tester.   |
-||||||||
-||||||||
+| TC_02 | Successful user find excersice | Valid Search | 1.In the search textbox.Enter the data already exists. <br><br> 2. Click button "Search"| The search already exists | Display results according to search criteria. ||
+||||1.In the search textbox.Enter the data does not have already exists/is not available in the Database <br><br>2. Click button "Search". |Test searches for data that does not exist | Display message 'No results'. ||
+|||| 1. Do not Enter data.<br><br> 2. Click button "Search".| Test searches for Empty. |Display Message 'No results' or display Message 'You have not entered data'. ||
+||||1. Enter existing/existing data in the Database in upper case, identical to the lower case above <br><br>2. Click button "Search".| Test the search case insensitively. |Display results according to search criteria, upper case results are the same as lower case||
+||||1. Enter existing/existing data in the Database with leading and trailing spaces. <br><br> 2. Click button "Search".|Test searches for data with leading and trailing spaces|- Display results according to search criteria <br>- Cut leading and trailing whitespace||
 
 
 
